@@ -1,6 +1,6 @@
 This purpose of this directory is for Holberton School's chatgpt project tasks <br>
 
-Debugging directory:
+Debugging directory:<br>
 0. Debugging - Python Factorial<br>
 1. Debugging - Python Arguments<br>
 2. Debugging - HTML / Javascript<br>
